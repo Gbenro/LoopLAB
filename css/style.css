@@ -9,7 +9,7 @@ body {
     opacity: 0.8;
 }
 
-#home-section {
+#home {
     background: url(../img/home.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -18,7 +18,7 @@ body {
 
 }
 
-#home-section .dark-overlay {
+#home .dark-overlay {
     position: absolute;
     top: 0;
     left: 0;
@@ -27,15 +27,15 @@ body {
     background: rgba(0, 0, 0, 0.7)
 }
 
-#home-section .home-inner {
+#home .home-inner {
     padding-top: 150px;
 }
 
-#home-section .card-form {
+#home .card-form {
     opacity: 0.8;
 }
 
-#home-section .fas,
+#home .fas,
 #create-section .fas {
     color: #008ed6;
     background: #fff;
